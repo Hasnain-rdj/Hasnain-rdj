@@ -8,7 +8,7 @@ Here’s the updated version of your GitHub profile README with your requested c
 🌱 I’m currently learning Python  
 💞️ I’m looking to collaborate on Team Work  
 📫 How to reach me [Upwork](https://www.upwork.com/freelancers/~0113ac97c757462815) or +923053694346  
-Visit my Website: [Portfolio](https://22f-3718.github.io/Portfolio/)  
+Visit my Website: [Portfolio]([https://22f-3718.github.io/Portfolio/](https://rococo-travesseiro-41bb6a.netlify.app/))  
 😄 Pronouns: He/him/his  
 ⚡ Fun fact: Introvert  
 
