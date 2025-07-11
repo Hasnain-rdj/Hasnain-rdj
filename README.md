@@ -17,7 +17,7 @@ I'm a passionate software developer with a strong interest in machine learning, 
 - 📫 Reach me at: [mhussnainzardari34@gmail.com](mailto:mhussnainzardari34@gmail.com) or **+92 305 3694346**
 - 🌐 Visit my [Portfolio Website](https://rococo-travesseiro-41bb6a.netlify.app/)
 - 😄 Pronouns: **He/Him/His**
-- ⚡ Fun fact: **I'm an introvert who codes better with music than with coffee!**
+- ⚡ Fun fact: **I'm an introvert who codes better with peace & coffee!**
 
 <div align="center">
   <a href="https://www.upwork.com/freelancers/~0113ac97c757462815">
