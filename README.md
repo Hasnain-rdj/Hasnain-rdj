@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-I'm a passionate software developer with a strong interest in machine learning, data science, and web development. Always eager to learn new technologies and collaborate on innovative projects.
+I'm a passionate software developer with a strong interest in android and web development along with UML Designer. Always eager to learn new technologies and collaborate on innovative projects.
 
 - 🔭 I'm currently working on **enhancing my Python skills and data science projects**
 - 🌱 I'm learning **advanced Python, Machine Learning, and Web Development**
