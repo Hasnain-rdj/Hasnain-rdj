@@ -11,13 +11,13 @@
 I'm a passionate software developer with a strong interest in android and web development along with UML Designer. Always eager to learn new technologies and collaborate on innovative projects.
 
 - 🔭 I'm currently working on **enhancing my Python skills and data science projects**
-- 🌱 I'm learning **Python, Machine Learning, and Web Development, AI**
+- 🌱 I'm learning **Python, Machine Learning, Web Development and AI**
 - 👯 I'm looking to collaborate on **open-source projects and innovative software solutions**
 - 💬 Ask me about **Python, Web & App Development**
 - 📫 Reach me at: [mhussnainzardari34@gmail.com](mailto:mhussnainzardari34@gmail.com) or **+92 305 3694346**
 - 🌐 Visit my [Portfolio Website](https://portfolio-two-silk-87.vercel.app/)
 - 😄 Pronouns: **He/Him/His**
-- ⚡ Fun fact: **I'm an introvert and game lover**
+- ⚡ Fun fact: **I'm an introvert and game lover😍**
 
 <div align="center">
   <a href="https://www.upwork.com/freelancers/~0113ac97c757462815">
