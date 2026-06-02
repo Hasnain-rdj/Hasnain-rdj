@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi%2C+I'm+Hasnain!+%F0%9F%91%8B;Software+Developer;Python+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Hasnain!+%F0%9F%91%8B;DevOps+%26+Cloud+Engineer;Python+Automation+Specialist;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -8,20 +8,20 @@
 
 ## 💫 About Me
 
-I'm a passionate software developer with a strong interest in android and web development along with UML Designer. Always eager to learn new technologies and collaborate on innovative projects.
+I am a Software Engineer focused on DevOps methodologies, cloud infrastructure, and enterprise automation. I specialize in bridging the gap between development and operations to build resilient, scalable systems, with a strong foundation in backend architecture and data pipelines. 
 
-- 🔭 I'm currently working on **enhancing my Python skills and data science projects**
-- 🌱 I'm learning **Python, Machine Learning, Web Development and AI**
-- 👯 I'm looking to collaborate on **open-source projects and innovative software solutions**
-- 💬 Ask me about **Python, Web & App Development**
+- 🔭 I'm currently working on **configuring CI/CD pipelines, containerizing applications, and managing infrastructure as code (IaC).**
+- 🌱 I'm learning **advanced Kubernetes orchestration and cloud-native observability.**
+- 👯 I'm looking to collaborate on **open-source DevOps tooling, cloud automation, and scalable backend solutions.**
+- 💬 Ask me about **Docker, Jenkins, Terraform, AWS, and Python ETL pipelines.**
 - 📫 Reach me at: [mhussnainzardari34@gmail.com](mailto:mhussnainzardari34@gmail.com) or **+92 305 3694346**
 - 🌐 Visit my [Portfolio Website](https://portfolio-two-silk-87.vercel.app/)
 - 😄 Pronouns: **He/Him/His**
-- ⚡ Fun fact: **I'm an introvert and game lover😍**
+- ⚡ Fun fact: **I'm an introvert and a huge gaming enthusiast 🎮**
 
 <div align="center">
   <a href="https://www.upwork.com/freelancers/~0113ac97c757462815">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/>
+    <img src="https://img.shields.io/badge/Upwork-100%25_Job_Success-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/>
   </a>
 </div>
 
@@ -46,36 +46,36 @@ I'm a passionate software developer with a strong interest in android and web de
 
 <div align="center">
   
-  ### Languages
+  ### Cloud, Infrastructure & DevOps
+  
+  <p>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  </p>
+
+  ### Languages & Backend
   
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
   
-  ### Frameworks & Libraries
+  ### Machine Learning & Data
   
   <p>
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  </p>
-  
-  ### Tools & Platforms
-  
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
 </div>
 
@@ -103,6 +103,8 @@ I'm a passionate software developer with a strong interest in android and web de
 </div>
 
 ## 💼 Featured Projects
+
+<!-- Note: Make sure to pin your most impressive DevOps, infrastructure, and automation repositories on your GitHub profile to match these cards! -->
 
 <div align="center">
   <a href="https://github.com/Hasnain-rdj/DataCleaning_Python">
@@ -137,5 +139,5 @@ I'm a passionate software developer with a strong interest in android and web de
 
 <div align="center">
   <h3>Thanks for visiting! 😊</h3>
-  <p>Feel free to reach out if you'd like to collaborate on a project or just want to chat!</p>
+  <p>Feel free to reach out if you'd like to collaborate on infrastructure solutions or just want to chat!</p>
 </div>
