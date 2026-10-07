@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Hasnain!+%F0%9F%91%8B;DevOps+%26+Cloud+Engineer;Full+Stack+Developer;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&random=false&width=800&height=70&lines=Hi%2C+I'm+Muhammad+Hasnain!+%F0%9F%91%8B;Full-Stack+Software+Engineer;DevOps+%26+Cloud+Architect;Building+Scalable+Microservices;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hasnain-rdj&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Hasnain-rdj&style=for-the-badge&color=2986CC" alt="Profile views" />
 </p>
 
 ## 💫 About Me
 
-I am a Software Engineer focused on DevOps methodologies, cloud infrastructure, and enterprise automation. I specialize in bridging the gap between development and operations to build resilient, scalable systems, with a strong foundation in backend architecture and data pipelines. 
+I am a **Software Engineer** and recent graduate from **FAST-NUCES**, specializing in bridging the gap between robust software development and highly scalable operations. I design enterprise-grade microservices, implement AI-powered features, and build resilient CI/CD pipelines. From refactoring complex databases to 3NF, to deploying full-stack apps on cloud infrastructure, I thrive on solving complex backend challenges.
 
-- 🔭 I'm currently working on **configuring CI/CD pipelines, containerizing applications, and managing infrastructure as code (IaC).**
-- 🌱 I'm learning **advanced Kubernetes orchestration and cloud-native observability.**
-- 👯 I'm looking to collaborate on **open-source DevOps tooling, cloud automation, and scalable backend solutions.**
-- 💬 Ask me about **Docker, Jenkins, Terraform, AWS, and Python ETL pipelines.**
-- 📫 Reach me at: [mhussnainzardari34@gmail.com](mailto:mhussnainzardari34@gmail.com) or **+92 305 3694346**
-- 🌐 Visit my [Portfolio Website](https://portfolio-two-silk-87.vercel.app/)
-- 😄 Pronouns: **He/Him/His**
-- ⚡ Fun fact: **I'm an introvert and a huge gaming enthusiast 🎮**
+- 🎓 **Education:** BS Software Engineering (Graduated June 2026, FAST-NUCES)
+- 🔭 **Currently working on:** Containerized microservices (BidOps) using **Next.js, Spring Boot, Docker, and PostgreSQL** with advanced observability via **Prometheus & Grafana**.
+- 🌱 **Deepening my expertise in:** Kubernetes orchestration, Cloud-native architecture, and AI integrations (FaceNet/MTCNN).
+- 💼 **Freelance:** Top-Rated Application Developer on Upwork (Web, Desktop, and UML Design).
+- 💬 **Ask me about:** Microservices, Docker, Jenkins, Terraform, AWS EC2/EBS, or Python ETL migration.
+- 📫 **Reach me at:** [mhussnainzardari34@gmail.com](mailto:mhussnainzardari34@gmail.com) | **+92 305 3694346**
+- 🌐 **Visit my:** [Portfolio Website](https://portfolio-two-silk-87.vercel.app/)
+- ⚡ **Fun fact:** I'm an introvert, a DIY home improvement fan, and a huge gaming enthusiast (currently deep into Tekken 8 and C# scripting for GTA V mods! 🎮)
 
 <div align="center">
   <a href="https://www.upwork.com/freelancers/~0113ac97c757462815">
-    <img src="https://img.shields.io/badge/Upwork-100%25_Job_Success-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/>
+    <img src="https://img.shields.io/badge/Upwork-100%25_Job_Success-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&boxShadow=true" alt="Upwork"/>
   </a>
 </div>
 
@@ -42,89 +42,98 @@ I am a Software Engineer focused on DevOps methodologies, cloud infrastructure, 
   </a>
 </div>
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Arsenal
 
 <div align="center">
   
-  ### Cloud, Infrastructure & DevOps
-  
+  ### ☁️ Cloud, DevOps & Infrastructure
   <p>
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+    <img src="https://img.shields.io/badge/GitLab_CI-18284E?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
     <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
   </p>
 
-  ### Languages & Backend
-  
+  ### ⚙️ Backend & APIs
   <p>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting" />
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
-  
-  ### Machine Learning & Data
-  
+
+  ### 🎨 Frontend Frameworks
   <p>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </p>
+
+  ### 🗄️ Databases & AI Tools
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   </p>
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasnain-rdj&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnain-rdj&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasnain-rdj&theme=radical&show_icons=true&hide_border=true&count_private=true&title_color=2986CC" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnain-rdj&theme=radical&hide_border=true&title_color=2986CC" width="49%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain-rdj&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="58%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain-rdj&theme=radical&show_icons=true&hide_border=true&layout=compact&title_color=2986CC" width="58%" alt="Top Languages"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasnain-rdj&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hasnain-rdj&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnain-rdj&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnain-rdj&bg_color=141321&color=2986CC&line=2986CC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ## 💼 Featured Projects
-
-<!-- Note: Make sure to pin your most impressive DevOps, infrastructure, and automation repositories on your GitHub profile to match these cards! -->
+<!-- Make sure these repos exist exactly as named below on your GitHub to render properly, or update the repo names! -->
 
 <div align="center">
-  <a href="https://github.com/Hasnain-rdj/DataCleaning_Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnain-rdj&repo=DataCleaning_Python&theme=tokyonight" alt="Data Cleaning Python"/>
+  <a href="https://github.com/Hasnain-rdj/BidOps">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnain-rdj&repo=BidOps&theme=radical" alt="BidOps Full Stack"/>
   </a>
-  <a href="https://github.com/Hasnain-rdj/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnain-rdj&repo=Portfolio&theme=tokyonight" alt="Portfolio"/>
+  <a href="https://github.com/Hasnain-rdj/Smart-Attendance-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnain-rdj&repo=Smart-Attendance-System&theme=radical" alt="AI Smart Attendance"/>
   </a>
-  <a href="https://github.com/Hasnain-rdj/Data_Annotation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnain-rdj&repo=Data_Annotation&theme=tokyonight" alt="Data Annotation"/>
+  <a href="https://github.com/Hasnain-rdj/HealthBridge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnain-rdj&repo=HealthBridge&theme=radical" alt="HealthBridge HMS"/>
   </a>
-  <a href="https://github.com/Hasnain-rdj/WebsiteCrawler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnain-rdj&repo=WebsiteCrawler&theme=tokyonight" alt="Web Crawler"/>
+  <a href="https://github.com/Hasnain-rdj/THE-MovieBox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnain-rdj&repo=THE-MovieBox&theme=radical" alt="THE-MovieBox"/>
   </a>
 </div>
 
 ## ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -139,5 +148,5 @@ I am a Software Engineer focused on DevOps methodologies, cloud infrastructure, 
 
 <div align="center">
   <h3>Thanks for visiting! 😊</h3>
-  <p>Feel free to reach out if you'd like to collaborate on infrastructure solutions or just want to chat!</p>
+  <p>Feel free to reach out if you'd like to collaborate on enterprise architecture, AI tools, or just want to chat!</p>
 </div>
